@@ -14,6 +14,7 @@ A collection of useful MATLAB functions for Simulink model manipulation, input r
 ## Function List
 * read_model: Allows loading, reading and manipulating model layer-by-layer. Modifications for each layer can be inserted as needed.
 * read_text: Allows reading any text file and storing it in a variable. The function output is character array with the content in it.
+* read_excel_file: Allows user to read the first sheet of an Excel file. Needs modification for further customization for your use-case.
 
 ---
 
